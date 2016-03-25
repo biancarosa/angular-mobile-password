@@ -1,7 +1,7 @@
 # angular-mobile-password
 Better password fields, based on a [JQuery plugin](http://www.jqueryscript.net/form/iOS-Like-Plain-Text-Input-of-Password-with-jQuery-mobilePassword-Plugin.html).
 
-See it in action![http://biancarosa.com.br/angular-mobile-password-example/]
+[See it in action!](http://biancarosa.com.br/angular-mobile-password-example/)
 
 # Usage
 Just create an text input:
