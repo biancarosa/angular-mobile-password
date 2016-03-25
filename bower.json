@@ -1,0 +1,23 @@
+{
+  "name": "angular-mobile-password",
+  "authors": [
+    "Bianca Rosa <me@biancarosa.com.br>"
+  ],
+  "description": "better password fields",
+  "main": "directive.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "password"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
